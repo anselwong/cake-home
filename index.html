@@ -113,9 +113,11 @@
         var nextUrl = $('#citySelect').val();
         if (nextUrl == 0) {
             alert('请选择城市')
+            return 
         } 
         if (nextUrl == 'default') {
             window.location.href = 'https://h5.youzan.com/v2/feature/7LwY8vq39V'
+            return 
         } else {
             window.location.href = nextUrl
         }

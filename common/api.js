@@ -8,7 +8,7 @@
         default:
             break
     }
-    
+
     window.BMap_loadScriptTime = (new Date).getTime();
-    document.write('<script type="text/javascript" src="https://api.map.baidu.com/getscript?v=2.0&ak=aMA3Gfot3Hi3L6xQqyvd4qnEYShRhDxQ&s=1&services=&t=20190123111209"></script>');
+    document.write('<script type="text/javascript" src="https://api.map.baidu.com/getscript?v=2.0&ak=aMA3Gfot3Hi3L6xQqyvd4qnEYShRhDxQ&s=1&services=&t=20190511111209"></script>');
 })();
