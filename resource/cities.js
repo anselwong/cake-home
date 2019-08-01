@@ -25,4 +25,7 @@ var cities = [{
 }, {
   value: 'default',
   label: 'test1'
+}, {
+  value: 'default',
+  label: 'test2'
 }]
