@@ -19,4 +19,7 @@ var cities = [{
 }, {
   value: 'default',
   label: 'mytest2'
+}, {
+  value: 'default',
+  label: '加多一条mytest'
 }]
