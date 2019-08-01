@@ -13,7 +13,10 @@ var cities = [{
 }, {
   value: 'default',
   label: '珠海市'
-},{
+}, {
   value: 'default',
   label: 'test_myRebase'
+}, {
+  value: 'default',
+  label: 'mytest2'
 }]
